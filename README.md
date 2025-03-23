@@ -4,7 +4,7 @@ This project leverages Gemma-3 vision capabilities and Streamlit to create a 100
 
 ## Installation and setup
 ### Install Dependencies:
-
+```sh
 !pip install streamlit ollama pillow
 
 ### Setup Ollama:
