@@ -35,10 +35,10 @@ For terminal access in Google Colab, follow these steps:
 5. **Pull gemma-3 vision model**
       ```sh
       !ollama run gemma3:4b
-       ```
+      ```
 
 ### Install Dependencies: 
-      ```sh
+```sh
       !pip install streamlit ollama pillow
-      ```
+```
 
