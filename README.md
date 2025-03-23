@@ -4,7 +4,7 @@ This project leverages Gemma-3 vision capabilities and Streamlit to develop a fu
 
 ## Installation and setup
 
-### Terminal Access Setup in Google Colab
+### Terminal Access Setup in Google Colab:
 
 For terminal access in Google Colab, follow these steps:
 
@@ -38,7 +38,7 @@ For terminal access in Google Colab, follow these steps:
       ```
 
 ### Install Dependencies: 
-```sh
+   ```sh
       !pip install streamlit ollama pillow
-```
+   ```
 
